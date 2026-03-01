@@ -11,7 +11,7 @@ permalink: /about/
 
 <div id="pl"></div>
 
-![Wojciech](/images/17B7025B-C608-4E12-B7D8-395C5D3BE4FA-scaled.jpeg)
+![Wojciech](/images/image1.jpeg)
 
 Hejka!
 Mam na imię **Wojciech**. Jesteś na moim personalnym blogu.
